@@ -34,23 +34,27 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 
 **Languages Used :** Lua & JSON.
 
+________________________________________________________________________________________________________________________________________
+
 ### Video
 {% include youtubePlayer.html id="QiqoUsU-SOQ" %}
 
 
-### Bit Biker
-Developed during my internship at Corona Labs, demonstrating new SDK features.
+### Leap Motion Endless Runner
+Endless Runner made for the Leap Motion Controller.
 
-- The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
+- 6 Different custom made gestures for the Leap Motion Controller.
 - I have created all of the artwork except the UI components. 
-- I have tested this game on many devices(iOS & Android) and spent a great deal of time optimizing the game to ensure it runs between    60-         55 FPS on most devices.
+- Includes a feedback HUD to give the user real time feedback on his hand position in 3D space.This will act as  a substitute for haptic feedback 
+- The feedback HUD gives the user an action point when performing gestures which will increase the level of learnability.
 
-**Built With :** Corona SDK & Photoshop.
 
-**Languages Used :** Lua & JSON.
+**Built With :** Unity & Photoshop.
+
+**Languages Used :** C#.
 
 ### Video
-{% include youtubePlayer.html id="QiqoUsU-SOQ" %}
+{% include youtubePlayer.html id="7XquTLrX8Ec" %}
 
 
 
@@ -60,30 +64,4 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yedya/Porfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
