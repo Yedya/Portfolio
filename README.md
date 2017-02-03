@@ -10,7 +10,7 @@ I am a driven person who loves to learn about new technologies and software prac
 Currently developing a tower defender.
 
 - Your classic tower defender.The player must use resources to defend his kingdom.
-- Enemy spawning pool system. 
+- All respawning objects use a object pooling system
 - Resource and building manager utility scripts.
 
 **Built With :** Unity 5 & Photoshop.
@@ -29,7 +29,6 @@ ________________________________________________________________________________
 Endless Runner made for the Leap Motion Controller.
 
 - 6 Different custom made gestures for the Leap Motion Controller.
-- I have created all of the artwork except the UI components. 
 - Includes a feedback HUD to give the user real time feedback on his hand position in 3D space.This will act as  a substitute for haptic feedback 
 - The feedback HUD gives the user an action point when performing gestures which will increase the level of learnability.
 
