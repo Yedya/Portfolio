@@ -8,12 +8,14 @@ I am a driven person who loves to learn about new technologies and software prac
 
 Developed during my internship at Corona Labs, demonstrating new SDK features.
 The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
+- Bulleted
 -There are many mechanics in the current build.I have done all the artwork in photoshop.
 -I have tested this game on many devices(iOS & Android)and spent a great deal of time optimizing the game to ensure it runs between 60-55 FPS on most devices.
 
 
 [![Everything Is AWESOME](http://img.youtube.com/vi/QiqoUsU-SOQ/0.jpg)](https://www.youtube.com/watch?v=QiqoUsU-SOQ "Everything Is AWESOME")
 
+{% include youtubePlayer.html id="QiqoUsU-SOQ" %}
 
 <video src="https://www.youtube.com/watch?v=QiqoUsU-SOQ" width="320" height="200" controls preload></video>
 
