@@ -25,25 +25,6 @@ ________________________________________________________________________________
 
 
 
-### Bit Biker
-Developed during my internship at Corona Labs, demonstrating new SDK features.
-
-- The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
-- I have created all of the artwork except the UI components. 
-- I have tested this game on many devices(iOS & Android) and spent a great deal of time optimizing the game to ensure it runs between    60-         55 FPS on most devices.
-
-**Built With :** Corona SDK & Photoshop.
-
-**Languages Used :** Lua & JSON.
-
-________________________________________________________________________________________________________________________________________
-
-### Video
-{% include youtubePlayer.html id="QiqoUsU-SOQ" %}
-
-
-
-
 ### Leap Motion Endless Runner
 Endless Runner made for the Leap Motion Controller.
 
@@ -61,7 +42,26 @@ ________________________________________________________________________________
 
 ### Video
 {% include youtubePlayer.html id="7XquTLrX8Ec" %}
+________________________________________________________________________________________________________________________________________
 
+
+
+### Bit Biker
+Developed during my internship at Corona Labs, demonstrating new SDK features.
+
+- The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
+- I have created all of the artwork except the UI components. 
+- I have tested this game on many devices(iOS & Android) and spent a great deal of time optimizing the game to ensure it runs between    60-         55 FPS on most devices.
+
+**Built With :** Corona SDK & Photoshop.
+
+**Languages Used :** Lua & JSON.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="QiqoUsU-SOQ" %}
+________________________________________________________________________________________________________________________________________
 
 
 
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 ### Video
 {% include youtubePlayer.html id="SCaHnTQGWBw" %}
-
+________________________________________________________________________________________________________________________________________
 
 
 
