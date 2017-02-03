@@ -11,7 +11,7 @@ I am a driven person who loves to learn about new technologies and software prac
 **Email :** Conorhynes18@gmail.com
 
 **Phone :** 4159880711
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+Some Markdown text with <span style="color:#00BFFF">some *blue* text</span>.
 
 
 
