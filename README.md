@@ -16,10 +16,9 @@ I am a driven person who loves to learn about new technologies and software prac
 
 ________________________________________________________________________________________________________________________________________
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br /> 
+<br /> 
+<br /> 
 
 ## Game Projects
 
