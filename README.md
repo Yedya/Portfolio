@@ -105,8 +105,64 @@ ________________________________________________________________________________
 
 
 
+## Genereal Software Projects
+
+### Distributed Database using a REST API
+I developed a game rental database system.
+
+- The application uses HTTP GET, POST, PUT and DELETE  to respond to REST requests  in other words has the ability to perform create ,read, update and delete on the database of games a customer can rent.
+- The database has a table called games. The games table contains 4 attributes, an int ‘id’ for ID, a string ‘title’ for the game title , a string  ‘genre’ for the genre and an int ‘rating’ for the game rating.
 
 
 
 
+**Built With :** Eclipse, JAXB, JAX-RS & HSQLDB.
+
+**Languages Used :** Java, SQL & XML.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="2qz_Q8r8yKs" %}
+________________________________________________________________________________________________________________________________________
+
+
+### Packet Sniffer
+Basically a packet sniffer is a program that listens for network traffic.
+
+- Displays the interfaces on my laptop, my NIC is  a Atheros Ar81xx seris PCI-E. 
+- You can select devices with the dropdown menu,and capture various packets from that device.
+- Displays device mac address(link layer),device address and subnet mask,in this case there are 256 available hosts per device.I know this because there subnet mask is 255.255.255.0 .
+
+
+
+**Built With :** Netbeans.
+
+**Languages Used :** Java.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="0_GQu33zuZs" %}
+________________________________________________________________________________________________________________________________________
+
+
+### Relational Database
+Hotel Booking system with focus on backend design.
+
+- Users can make new accounts, then log in using their account information. 
+- They can edit, remove or view the rooms they have booked and edit their own user information.
+- Admins have higher privileges they can view all customers, make changes to customer information such as removing a customer, editing their information or viewing various customer information.
+- They can also edit customer room information, cancel/remove rooms, create new bookings or view bookings.
+
+
+**Built With :** Sublime Text & UniServerZ.
+
+**Languages Used :** PHP, HTML, CSS & SQL.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="IuV_cVyEU24" %}
+________________________________________________________________________________________________________________________________________
 
