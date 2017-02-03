@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages!
+## Welcome
 
 
 I am a driven person who loves to learn about new technologies and software practices. I am never satisfied with a project until I know it has been completed to the best of my abilities.I can be a strong member of a team, often stepping up to lead if there is a need for it. I'm passionate about game development and I enjoy seeing people getting enjoyment out of the games I make!
 
 
-### Markdown
+## Game Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
