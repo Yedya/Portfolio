@@ -10,7 +10,7 @@ I am a driven person who loves to learn about new technologies and software prac
 
 **Email :** Conorhynes18@gmail.com
 
-**Phone :** 4159880711
+**Phone Number :** 4159880711
 
 
 
