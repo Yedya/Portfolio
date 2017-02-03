@@ -53,6 +53,8 @@ Endless Runner made for the Leap Motion Controller.
 
 **Languages Used :** C#.
 
+________________________________________________________________________________________________________________________________________
+
 ### Video
 {% include youtubePlayer.html id="7XquTLrX8Ec" %}
 
