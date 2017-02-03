@@ -65,6 +65,26 @@ ________________________________________________________________________________
 
 
 
+### Need 4 Marks
+Me and four fellow students got together to make a 3D racing game.
+
+- Two different game modes, time trial and racing against AI cars. 
+- I implemented car handling, map transitions ,enemy car AI and level design.
+
+
+
+**Built With :** Unity & Blender.
+
+**Languages Used :** C#.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="SCaHnTQGWBw&t" %}
+
+
+
+
 
 
 
