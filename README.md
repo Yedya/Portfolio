@@ -6,6 +6,21 @@ I am a driven person who loves to learn about new technologies and software prac
 
 ## Game Projects
 
+### Tower Defender Game [Still in development]
+Currently developing a tower defender.
+
+- Your classic tower defender.The player must use resources to defend his kingdom.
+- Enemy spawning pool system. 
+- Resource and building manager utility scripts.
+
+**Built With :** Unity 5 & Photoshop.
+
+**Languages Used :** C#.
+
+### Video
+{% include youtubePlayer.html id="FISArggPaG4" %}
+
+
 ### Bit Biker
 Developed during my internship at Corona Labs, demonstrating new SDK features.
 
@@ -13,9 +28,9 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 - I have created all of the artwork except the UI components. 
 - I have tested this game on many devices(iOS & Android) and spent a great deal of time optimizing the game to ensure it runs between    60-         55 FPS on most devices.
 
-**Built With :** Corona SDK & Photoshop
+**Built With :** Corona SDK & Photoshop.
 
-**Languages Used :** Lua & JSON
+**Languages Used :** Lua & JSON.
 
 ### Video
 {% include youtubePlayer.html id="QiqoUsU-SOQ" %}
@@ -28,18 +43,9 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 - I have created all of the artwork except the UI components. 
 - I have tested this game on many devices(iOS & Android) and spent a great deal of time optimizing the game to ensure it runs between    60-         55 FPS on most devices.
 
+**Built With :** Corona SDK & Photoshop.
 
-### Video
-{% include youtubePlayer.html id="QiqoUsU-SOQ" %}
-
-
-### Bit Biker
-Developed during my internship at Corona Labs, demonstrating new SDK features.
-
-- The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
-- I have created all of the artwork except the UI components. 
-- I have tested this game on many devices(iOS & Android) and spent a great deal of time optimizing the game to ensure it runs between    60-         55 FPS on most devices.
-
+**Languages Used :** Lua & JSON.
 
 ### Video
 {% include youtubePlayer.html id="QiqoUsU-SOQ" %}
