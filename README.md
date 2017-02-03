@@ -66,10 +66,11 @@ ________________________________________________________________________________
 
 
 ### Need 4 Marks
-Me and four fellow students got together to make a 3D racing game.
+Me and four fellow students got together to make a 3D racing game for our 3rd year project.
 
 - Two different game modes, time trial and racing against AI cars. 
 - I implemented car handling, map transitions ,enemy car AI and level design.
+
 
 
 
@@ -80,8 +81,7 @@ Me and four fellow students got together to make a 3D racing game.
 ________________________________________________________________________________________________________________________________________
 
 ### Video
-{% include youtubePlayer.html id="SCaHnTQGWBw&t" %}
-
+{% include youtubePlayer.html id="SCaHnTQGWBw" %}
 
 
 
