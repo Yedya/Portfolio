@@ -10,11 +10,11 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
 -There are many mechanics in the current build.I have done all the artwork in photoshop.
 -I have tested this game on many devices(iOS & Android)and spent a great deal of time optimizing the game to ensure it runs between 60-55 FPS on most devices.
-https://www.youtube.com/watch?v=QiqoUsU-SOQ
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=QiqoUsU-SOQ)](https://www.youtube.com/watch?v=QiqoUsU-SOQ)
 
 
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QiqoUsU-SOQ/0.jpg)](http://www.youtube.com/watch?v=QiqoUsU-SOQ "Video Title")
 
 ```markdown
 Syntax highlighted code block
