@@ -65,6 +65,25 @@ ________________________________________________________________________________
 
 
 
+### Solar System Visualizer
+Developed during my internship at Corona Labs, demonstrating new SDK features.
+
+- Solar System simulation implemented with C++ and openGL libraries. 
+- Contains all 8 planets and Pluto.
+- All planets are rotating around the sun a long with the planets themselves rotating at their own individual axis.
+
+**Built With :** Visual Studio & openGL.
+
+**Languages Used :** C++.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="1KUXkIcJ_AQ" %}
+________________________________________________________________________________________________________________________________________
+
+
+
 ### Need 4 Marks
 Me and four fellow students got together to make a 3D racing game for our 3rd year project.
 
