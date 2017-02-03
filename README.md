@@ -6,12 +6,14 @@ I am a driven person who loves to learn about new technologies and software prac
 
 <a href="Conor_Hynes_Resume_Feb.pdf">View/Download Resume</a>
 
+[Git Hub](https://github.com/Yedya)
+
 **Email :** Conorhynes18@gmail.com
 
 **Phone :** 4159880711
-<p style='color:red'>This is some red text.</p>
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-[Git Hub](https://github.com/Yedya)
+
 
 ## Game Projects
 
