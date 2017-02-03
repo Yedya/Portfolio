@@ -15,6 +15,8 @@ The player is driving a mobile bitcoin miner and has to collect bitcoins and avo
 [![Everything Is AWESOME](http://img.youtube.com/vi/QiqoUsU-SOQ/0.jpg)](https://www.youtube.com/watch?v=QiqoUsU-SOQ "Everything Is AWESOME")
 
 
+<video src="https://www.youtube.com/watch?v=QiqoUsU-SOQ" width="320" height="200" controls preload></video>
+
 
 ```markdown
 Syntax highlighted code block
