@@ -12,7 +12,7 @@ The player is driving a mobile bitcoin miner and has to collect bitcoins and avo
 -I have tested this game on many devices(iOS & Android)and spent a great deal of time optimizing the game to ensure it runs between 60-55 FPS on most devices.
 https://www.youtube.com/watch?v=QiqoUsU-SOQ
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=QiqoUsU-SOQ)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=QiqoUsU-SOQ)](https://www.youtube.com/watch?v=QiqoUsU-SOQ)
 
 
 
