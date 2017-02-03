@@ -14,8 +14,8 @@ I am a driven person who loves to learn about new technologies and software prac
 **Email :** Conorhynes18@gmail.com
 
 **Phone Number :** 4159880711
-________________________________________________________________________________________________________________________________________
 
+&nbsp;&nbsp;
 
 
 
@@ -28,7 +28,7 @@ Currently developing a tower defender.
 - All respawning objects use a object pooling system
 - Resource and building manager utility scripts.
 
-**Built With :** Unity 5 & Photoshop.
+**Built With :** Unity & Photoshop.
 
 **Languages Used :** C#.
 
