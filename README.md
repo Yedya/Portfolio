@@ -6,6 +6,8 @@ I am a driven person who loves to learn about new technologies and software prac
 
 ## Game Projects
 
+
+### Bit Biker
 Developed during my internship at Corona Labs, demonstrating new SDK features.
 
 - The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
@@ -13,7 +15,7 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 - I have tested this game on many devices(iOS & Android)and spent a great deal of time optimizing the game to ensure it runs between 60-   55 FPS on most devices
 
 
-
+### Video
 {% include youtubePlayer.html id="QiqoUsU-SOQ" %}
 
 
