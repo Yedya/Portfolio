@@ -6,8 +6,11 @@ I am a driven person who loves to learn about new technologies and software prac
 
 ## Game Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Developed during my internship at Corona Labs, demonstrating new SDK features.
+The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
+-There are many mechanics in the current build.I have done all the artwork in photoshop.
+-I have tested this game on many devices(iOS & Android)and spent a great deal of time optimizing the game to ensure it runs between 60-55 FPS on most devices.
+https://www.youtube.com/watch?v=QiqoUsU-SOQ
 ```markdown
 Syntax highlighted code block
 
