@@ -1,7 +1,24 @@
 ## Welcome
 
 
-I am a driven person who loves to learn about new technologies and software practices. I am never satisfied with a project until I know it has been completed to the best of my abilities.I can be a strong member of a team, often stepping up to lead if there is a need for it. I'm passionate about game development and I enjoy seeing people getting enjoyment out of the games I make!
+I am a driven person who loves to learn about new technologies and software practices. I am never satisfied with a project until I know it has been completed to the best of my abilities. I can be a strong member of a team, often stepping up to lead if there is a need for it. I'm passionate about game development and I enjoy seeing people getting enjoyment out of the games I make!
+
+
+
+
+<a href="Conor_Hynes_Resume_Feb.pdf">View/Download Resume</a>
+
+[Git Hub](https://github.com/Yedya)
+
+**Email :** Conorhynes18@gmail.com
+
+**Phone Number :** 4159880711
+
+________________________________________________________________________________________________________________________________________
+
+<br /> 
+<br /> 
+
 
 
 ## Game Projects
@@ -13,7 +30,7 @@ Currently developing a tower defender.
 - All respawning objects use a object pooling system
 - Resource and building manager utility scripts.
 
-**Built With :** Unity 5 & Photoshop.
+**Built With :** Unity & Photoshop.
 
 **Languages Used :** C#.
 
@@ -164,4 +181,4 @@ ________________________________________________________________________________
 {% include youtubePlayer.html id="IuV_cVyEU24" %}
 ________________________________________________________________________________________________________________________________________
 
-<a href="file.txt">Download File</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
