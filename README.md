@@ -26,7 +26,7 @@ ________________________________________________________________________________
 ### Tower Defender Game [Still in development]
 Currently developing a tower defender.
 
-- Your classic tower defender.The player must use resources to defend his kingdom.
+- Your classic tower defender.The player must use resources to defend the kingdom.
 - All respawning objects use a object pooling system
 - Resource and building manager utility scripts.
 
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 Endless Runner made for the Leap Motion Controller.
 
 - 6 Different custom made gestures for the Leap Motion Controller.
-- Includes a feedback HUD to give the user real time feedback on his hand position in 3D space.This will act as  a substitute for haptic feedback 
+- Includes a feedback HUD to give the user real time feedback on the hand position in 3D space.This will act as  a substitute for haptic feedback 
 - The feedback HUD gives the user an action point when performing gestures which will increase the level of learnability.
 
 
@@ -85,7 +85,7 @@ Developed during my internship at Corona Labs, demonstrating new SDK features.
 
 - Solar System simulation implemented with C++ and openGL libraries. 
 - Contains all 8 planets and Pluto.
-- All planets are rotating around the sun a long with the planets themselves rotating at their own individual axis.
+- All planets are rotating around the sun along with the planets themselves rotating on their own individual axis.
 
 **Built With :** Visual Studio & openGL.
 
