@@ -125,8 +125,8 @@ ________________________________________________________________________________
 ### Distributed Database using a REST API
 I developed a game rental database system.
 
-- The application uses HTTP GET, POST, PUT and DELETE  to respond to REST requests  in other words has the ability to perform create ,read, update and delete on the database of games a customer can rent.
-- The database has a table called games. The games table contains 4 attributes, an int ‘id’ for ID, a string ‘title’ for the game title , a string  ‘genre’ for the genre and an int ‘rating’ for the game rating.
+- The application uses HTTP GET, POST, PUT and DELETE  to respond to REST requests. In other words has the ability to perform create, read, update and delete on the database of games a customer can rent.
+- The database has a table called games. The games table contains 4 attributes, an int ‘id’ for ID, a string ‘title’ for the game title,  a string ‘genre’ for the genre and an int ‘rating’ for the game rating.
 
 
 
