@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 
 
-## Genereal Software Projects
+## General Software Projects
 
 ### Distributed Database using a REST API
 I developed a game rental database system.
