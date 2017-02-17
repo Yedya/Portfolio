@@ -46,7 +46,7 @@ ________________________________________________________________________________
 Endless Runner made for the Leap Motion Controller.
 
 - 6 Different custom made gestures for the Leap Motion Controller.
-- Includes a feedback HUD to give the user real time feedback on the hand position in 3D space.This will act as  a substitute for haptic feedback 
+- Includes a feedback HUD to give the user real time feedback on the hand position in 3D space. This will act as  a substitute for haptic feedback 
 - The feedback HUD gives the user an action point when performing gestures which will increase the level of learnability.
 
 
