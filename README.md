@@ -103,7 +103,7 @@ ________________________________________________________________________________
 Me and four fellow students got together to make a 3D racing game for our 3rd year project.
 
 - Two different game modes, time trial and racing against AI cars. 
-- I implemented car handling, map transitions ,enemy car AI and level design.
+- I implemented car handling, map transitions, enemy car AI and level design.
 
 
 
@@ -125,7 +125,7 @@ ________________________________________________________________________________
 ### Distributed Database using a REST API
 I developed a game rental database system.
 
-- The application uses HTTP GET, POST, PUT and DELETE  to respond to REST requests. In other words has the ability to perform create, read, update and delete on the database of games a customer can rent.
+- The application uses HTTP GET, POST, PUT and DELETE  to respond to REST requests. In other words it has the ability to perform create, read, update and delete on the database of games a customer can rent.
 - The database has a table called games. The games table contains 4 attributes, an int ‘id’ for ID, a string ‘title’ for the game title,  a string ‘genre’ for the genre and an int ‘rating’ for the game rating.
 
 
@@ -167,7 +167,7 @@ Hotel Booking system with focus on backend design.
 
 - Users can make new accounts, then log in using their account information. 
 - They can edit, remove or view the rooms they have booked and edit their own user information.
-- Admins have higher privileges.So they can view all customers, make changes to customer information such as removing a customer, editing their information or viewing various customer information.
+- Admins have higher privileges. So they can view all customers, make changes to customer information such as removing a customer, editing their information or viewing various customer information.
 - They can also edit customer room information, cancel/remove rooms, create new bookings or view bookings.
 
 
