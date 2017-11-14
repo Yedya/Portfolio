@@ -6,7 +6,7 @@ I am a driven person who loves to learn about new technologies and software prac
 
 
 
-<a href="Conor_Hynes_Resume_Feb.pdf">View/Download Resume</a>
+<a href="Conor_Hynes_Resume_.pdf">View/Download Resume</a>
 
 [Git Hub](https://github.com/Yedya)
 
