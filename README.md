@@ -103,7 +103,7 @@ ________________________________________________________________________________
 Me and four fellow students got together to make a 3D racing game for our 3rd year project.
 
 - Two different game modes, time trial and racing against AI cars. 
-- I implemented car handling, map transitions, enemy car AI and level design.
+- I implemented the audio system using WWise,car handling, map transitions, enemy car AI and level design.
 
 
 
