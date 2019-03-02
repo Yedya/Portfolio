@@ -19,16 +19,36 @@ ________________________________________________________________________________
 <br /> 
 <br /> 
 
-
-
 ## Game Projects
 
-### Tower Defender Game [Still in development]
-Currently developing a tower defender.
+### Leap Runner [2D AR]
+Alternate Reality (AR) 2D Endless runner built for Leap Motion Controller; user controls player using hand gestures.
+- Developed a AR controlled 2D endless runner with a library of intuitive  hand controlled gestures 
+- Engineered custom library in C# and Unity of 8 responsive hand gestures for each action player performs.
+- Includes a feedback HUD so the system can calibrate the trigger parameters based on the users's hand size.This gives the user real time feedback on the hand position in 3D space. This will act as  a substitute for haptic feedback 
+- The feedback HUD gives the user an action point when performing gestures which will increase the level of learnability.
+
+
+**Built With :** Unity,Photoshop, C# and the Leap Motion API
+
+**Languages Used :** C#
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="7XquTLrX8Ec" %}
+________________________________________________________________________________________________________________________________________
+
+
+
+
+### Tower Defender Game [3D]
+A classic tower defender
 
 - Your classic tower defender.The player must use resources to defend the kingdom.
 - All respawning objects use a object pooling system
 - Resource and building manager utility scripts.
+- The project goal was to improve my rapid prototyping skills
 
 **Built With :** Unity & Photoshop.
 
@@ -40,25 +60,6 @@ ________________________________________________________________________________
 {% include youtubePlayer.html id="FISArggPaG4" %}
 ________________________________________________________________________________________________________________________________________
 
-
-
-### Leap Motion Endless Runner
-Endless Runner made for the Leap Motion Controller.
-
-- 6 Different custom made gestures for the Leap Motion Controller.
-- Includes a feedback HUD to give the user real time feedback on the hand position in 3D space. This will act as  a substitute for haptic feedback 
-- The feedback HUD gives the user an action point when performing gestures which will increase the level of learnability.
-
-
-**Built With :** Unity & Photoshop.
-
-**Languages Used :** C#.
-
-________________________________________________________________________________________________________________________________________
-
-### Video
-{% include youtubePlayer.html id="7XquTLrX8Ec" %}
-________________________________________________________________________________________________________________________________________
 
 
 
@@ -81,9 +82,10 @@ ________________________________________________________________________________
 
 
 ### Solar System Visualizer
-Developed during my internship at Corona Labs, demonstrating new SDK features.
+OpenGL Solar System to read in VAO sheets and visualize current star positions.
 
-- Solar System simulation implemented with C++ and openGL libraries. 
+- Implemented C++ VAO parser to read VAO files and display them in Visual Studio using OpenGL.
+- Designed 3D Visualization of solar system with planets that rotate around sun with their own rotation period utilizing C++ and OpenGL  library.
 - Contains all 8 planets and Pluto.
 - All planets are rotating around the sun along with the planets themselves rotating on their own individual axis.
 
@@ -100,10 +102,10 @@ ________________________________________________________________________________
 
 
 ### Need 4 Marks
-Me and four fellow students got together to make a 3D racing game for our 3rd year project.
+3D racing game through multiple terrains.
 
 - Two different game modes, time trial and racing against AI cars. 
-- I implemented the sounds and audio system,car handling, map transitions, enemy car AI and level design.
+- Led team of 3 game engineers, I implemented car controls, enemy car AI, scene transitions, level design, and UI utilizing C# and Unity.
 
 
 
