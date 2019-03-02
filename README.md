@@ -1,7 +1,7 @@
 ## Welcome
 
 
-I am a driven person who loves to learn about new technologies and software practices. I am never satisfied with a project until I know it has been completed to the best of my abilities. I can be a strong member of a team, often stepping up to lead if there is a need for it. 
+I am a game developer with a background in gameplay engineering and audio engineering. I love developing games while collaborating with others. I'm excited by interesting game features and unique gameplay mechanics.
 
 
 
