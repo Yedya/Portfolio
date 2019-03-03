@@ -191,12 +191,13 @@ ________________________________________________________________________________
 ## Audio
 
 
-### 
+### Aleyum - Soul Remedy [Silk Music]
 Last release on [Silk Music](http://www.silk-music.com/)
 
-
-**I did the mixing, writing, sound Design & Compisition :**
-
+- I performed the mixing, writing, sound Design & composition
+- This is an example of my audio work
+- Released on a professional label
+- Received radio support from many prolific artists 
 
 ________________________________________________________________________________________________________________________________________
 
