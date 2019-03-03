@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 
 
-### Bit Biker
+### Bit Biker [2D]
 Developed during my internship at Corona Labs, demonstrating new SDK features.
 
 - The player is driving a mobile bitcoin miner and has to collect bitcoins and avoid structures and obstacles.
@@ -81,7 +81,7 @@ ________________________________________________________________________________
 
 
 
-### Solar System Visualizer
+### Solar System Visualizer [3D]
 OpenGL Solar System to read in VAO sheets and visualize current star positions.
 
 - Implemented C++ VAO parser to read VAO files and display them in Visual Studio using OpenGL.
@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 
 
-### Need 4 Marks
+### Need 4 Marks [3D]
 3D racing game through multiple terrains.
 
 - Two different game modes, time trial and racing against AI cars. 
@@ -184,3 +184,35 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+## Audio
+
+
+### 
+Last release on [Silk Music](http://www.silk-music.com/)
+
+
+**I did the mixing, writing, sound Design & Compisition :**
+
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="k_mLXOqt2b0" %}
+________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
