@@ -189,7 +189,8 @@ ________________________________________________________________________________
 ## Audio
 
 
-Artist project - Aleyum [Spotify Link](https://open.spotify.com/artist/2vLlk2CcC4NnN7yoNSTmX2?si=ionFIWS-QiK5YUPa020NZA)
+Artist project - Aleyum 
+[Spotify Link](https://open.spotify.com/artist/2vLlk2CcC4NnN7yoNSTmX2?si=ionFIWS-QiK5YUPa020NZA)
 
 ### Aleyum - Soul Remedy [Silk Music]
 Last release on [Silk Music](https://www.monstercat.com/silk/)
