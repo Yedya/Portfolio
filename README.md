@@ -21,6 +21,26 @@ ________________________________________________________________________________
 
 ## Game Projects
 
+
+### Solar System Visualizer [3D]
+OpenGL Solar System to read in VAO sheets and visualize current star positions.
+
+- Implemented C++ VAO parser to read VAO files and display them in Visual Studio using OpenGL.
+- Designed 3D Visualization of solar system with planets that rotate around sun with their own rotation period utilizing C++ and OpenGL  library.
+- Contains all 8 planets and Pluto.
+- All planets are rotating around the sun along with the planets themselves rotating on their own individual axis.
+
+**Built With :** Visual Studio & openGL.
+
+**Languages Used :** C++.
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="1KUXkIcJ_AQ" %}
+________________________________________________________________________________________________________________________________________
+
+
 ### Leap Runner [2D AR]
 Alternate Reality (AR) 2D Endless runner built for Leap Motion Controller; user controls player using hand gestures.
 - Developed a AR controlled 2D endless runner with a library of intuitive  hand controlled gestures 
@@ -78,28 +98,6 @@ ________________________________________________________________________________
 ### Video
 {% include youtubePlayer.html id="QiqoUsU-SOQ" %}
 ________________________________________________________________________________________________________________________________________
-
-
-
-### Solar System Visualizer [3D]
-OpenGL Solar System to read in VAO sheets and visualize current star positions.
-
-- Implemented C++ VAO parser to read VAO files and display them in Visual Studio using OpenGL.
-- Designed 3D Visualization of solar system with planets that rotate around sun with their own rotation period utilizing C++ and OpenGL  library.
-- Contains all 8 planets and Pluto.
-- All planets are rotating around the sun along with the planets themselves rotating on their own individual axis.
-
-**Built With :** Visual Studio & openGL.
-
-**Languages Used :** C++.
-
-________________________________________________________________________________________________________________________________________
-
-### Video
-{% include youtubePlayer.html id="1KUXkIcJ_AQ" %}
-________________________________________________________________________________________________________________________________________
-
-
 
 ### Need 4 Speed [3D]
 3D racing game through multiple terrains.
