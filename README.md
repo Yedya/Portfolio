@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 
 
-### Need 4 Marks [3D]
+### Need 4 Speed [3D]
 3D racing game through multiple terrains.
 
 - Two different game modes, time trial and racing against AI cars. 
@@ -192,9 +192,9 @@ ________________________________________________________________________________
 
 
 ### Aleyum - Soul Remedy [Silk Music]
-Last release on [Silk Music](http://www.silk-music.com/)
+Last release on [Silk Music](https://www.monstercat.com/silk/)
 
-- I performed the mixing, writing, sound Design & composition
+- I performed the mixing, writing, sound design & composition
 - This is an example of my audio work
 - Released on a professional label
 - Received radio support from many prolific artists 
