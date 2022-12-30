@@ -1,9 +1,9 @@
 ## Welcome
 
 
-I am a game developer with a background in gameplay engineering and audio engineering. I love developing games while collaborating with others. I'm excited by interesting game features and unique gameplay mechanics.
+I am a software enginner with a background C++ and C#.
 
-
+I've worked in large teams across various different types of games from MMORPGs to F2P  games
 
 
 
