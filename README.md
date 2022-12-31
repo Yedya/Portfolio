@@ -1,7 +1,7 @@
 ## Welcome
 
 
-I am a software enginner with a background C++ and C#.
+I am a software engineer with a background C++ and C#.
 
 I've worked in large teams across various different types of games from MMORPGs to F2P  games
 
