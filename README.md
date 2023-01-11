@@ -19,7 +19,28 @@ ________________________________________________________________________________
 <br /> 
 <br /> 
 
-## Game Projects
+
+## Games I've contributed to
+
+
+### Adventure Academy 
+Adventure Academy is a commercial gamified massive multi-user online virtual learning environment for US 3rd to 6th graders (ages 8-13) made by Age of Learning Inc
+
+- Lead development of a critical in-house tool for team of 30+ engineers, artists and designers.
+- Maintained and enhanced the large, complex code base of a live MMO.
+- Collaborated with an interdisciplinary team to create efficient strategies.
+
+**Built With :** Unity, our tech stack.
+
+**Languages Used :** C#
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="KhQNbGxTfns" %}
+________________________________________________________________________________________________________________________________________
+
+## Personal Projects
 
 
 ### Solar System Visualizer [3D]
