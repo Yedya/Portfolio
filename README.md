@@ -22,6 +22,25 @@ ________________________________________________________________________________
 
 ## Projects I've contributed to
 
+### ManageXR Unity Home Screen  
+
+- Developed and maintained the **ManageXR Home Screen**, a customizable VR app launcher for enterprise and education use.  
+- Implemented **device management and kiosk mode** features, ensuring users remain within approved applications.  
+- Enhanced **compatibility and functionality** across **Pico, Oculus (Meta Quest), and Vive** headsets.  
+- Optimized **UI/UX customization** for branding, layout, and background settings.  
+- Improved **controller, WiFi, Bluetooth, and hand tracking** configurations for seamless user interaction.  
+
+**Built With:** Unity, ManageXR tech stack  
+**Languages Used:** C#
+
+
+________________________________________________________________________________________________________________________________________
+
+### Video
+{% include youtubePlayer.html id="MDY4tHJNg3QIIVR9&t=211" %}
+________________________________________________________________________________________________________________________________________
+
+
 
 ### Adventure Academy 
 Adventure Academy is a commercial gamified massive multi-user online virtual learning environment for US 3rd to 6th graders (ages 8-13) made by Age of Learning Inc
