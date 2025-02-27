@@ -1,10 +1,10 @@
 ## Welcome
 
+I am a software engineer with a strong foundation in C++ and C#, specializing in game development, virtual reality, and interactive systems.
 
-I am a software engineer with a background C++ and C#.
+With experience working in large, cross-functional teams, I have contributed to a wide range of projects, from MMORPGs to free-to-play mobile games. My expertise spans Unity development, Android applications, and VR platforms, including Oculus, HTC Vive, and Pico headsets. I have worked extensively on gameplay engineering, full-stack development, and performance optimization across multiple platforms.
 
-I've worked in large teams across various different types of games from MMORPGs to F2P  games
-
+I have a proven track record of architecting scalable systems, debugging complex VR interactions, and optimizing performance for mobile and standalone VR devices. Additionally, I have experience integrating backend services, networking solutions, and build automation, ensuring smooth development workflows for engineers and artists.
 
 
 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <br /> 
 
 
-## Games I've contributed to
+## Projects I've contributed to
 
 
 ### Adventure Academy 
